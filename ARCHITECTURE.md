@@ -297,3 +297,9 @@ flowchart LR
 - 当 B 站发送响应包含 `data.msg_key` 时，回写 `bilibili_msg_key` 和 `platform_msg_id`，便于服务端绑定真实平台消息 ID。
 - 每次 `reply_update` 请求和响应会写入 `data/server_sync_logs/reply_update_*.json`，失败则写入 `reply_update_failed_*.json`。
 - 排查到不应同时运行多个 `sync_bilibili_server.py`，否则可能造成任务竞争；测试阶段保留单个 30 秒轮询进程。
+
+## 2026-06-10 Windows 启动脚本
+
+- 新增 `run_bilibili_sync.bat`，双击后按 `600 +/- 80` 秒循环执行完整桥接：采集上传、拉取回复、本地发送、回写状态。
+- 新增 `run_bilibili_reply_only.bat`，双击后按 `600 +/- 80` 秒循环执行回复桥接，不上传新消息。
+- bat 内容使用 ASCII 输出，避免 Windows CMD 在中文编码下解析异常。
