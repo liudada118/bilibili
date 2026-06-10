@@ -1,0 +1,33 @@
+{
+  "request": {
+    "reply_id": "reply_1781051781880_38fesc",
+    "task_id": "reply_1781051781880_38fesc",
+    "sender_uid": "385485427",
+    "talker_id": "385485427",
+    "content": "您想应聘的话可以留一下您的联系方式，详细信息及应聘岗位，我安排相关人员和您对接",
+    "status": "sent",
+    "updated_at": 1781051801862,
+    "sent_at": 1781051801862,
+    "platform": "bilibili",
+    "platform_status": "sent",
+    "bilibili_msg_key": "7649559242919641869",
+    "platform_msg_id": "7649559242919641869",
+    "outbox_id": 10,
+    "response": {
+      "code": 0,
+      "message": "0",
+      "ttl": 1,
+      "data": {
+        "msg_key": 7649559242919641869,
+        "msg_content": "{\"content\":\"您想应聘的话可以留一下您的联系方式，详细信息及应聘岗位，我安排相关人员和您对接\"}",
+        "key_hit_infos": {}
+      }
+    }
+  },
+  "result": {
+    "status": 200,
+    "body": {
+      "ok": true
+    }
+  }
+}

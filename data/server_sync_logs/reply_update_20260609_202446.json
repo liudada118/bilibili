@@ -1,0 +1,33 @@
+{
+  "request": {
+    "reply_id": "reply_1781007883672_c1oyzq",
+    "task_id": "reply_1781007883672_c1oyzq",
+    "sender_uid": "490543555",
+    "talker_id": "490543555",
+    "content": "4646",
+    "status": "sent",
+    "updated_at": 1781007885509,
+    "sent_at": 1781007885509,
+    "platform": "bilibili",
+    "platform_status": "sent",
+    "bilibili_msg_key": "7649370620658530117",
+    "platform_msg_id": "7649370620658530117",
+    "outbox_id": 9,
+    "response": {
+      "code": 0,
+      "message": "0",
+      "ttl": 1,
+      "data": {
+        "msg_key": 7649370620658530117,
+        "msg_content": "{\"content\":\"4646\"}",
+        "key_hit_infos": {}
+      }
+    }
+  },
+  "result": {
+    "status": 200,
+    "body": {
+      "ok": true
+    }
+  }
+}

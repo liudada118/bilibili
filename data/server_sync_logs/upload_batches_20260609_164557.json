@@ -1,0 +1,14 @@
+{
+  "total_new": 282,
+  "uploaded": 0,
+  "marked_uploaded": 0,
+  "batch_size": 1,
+  "batches": [],
+  "failed_batches": [
+    {
+      "batch": 1,
+      "count": 1,
+      "error": "POST returned HTML instead of JSON API response"
+    }
+  ]
+}

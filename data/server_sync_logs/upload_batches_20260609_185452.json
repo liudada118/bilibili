@@ -1,0 +1,16 @@
+{
+  "total_new": 1,
+  "uploaded": 1,
+  "marked_uploaded": 1,
+  "batch_size": 20,
+  "batches": [
+    {
+      "batch": 1,
+      "count": 1,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 1
+    }
+  ],
+  "failed_batches": []
+}

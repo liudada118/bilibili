@@ -1,0 +1,212 @@
+{
+  "total_new": 282,
+  "uploaded": 282,
+  "marked_uploaded": 282,
+  "batch_size": 10,
+  "batches": [
+    {
+      "batch": 1,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 2,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 3,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 4,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 5,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 6,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 7,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 8,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 9,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 10,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 11,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 12,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 13,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 14,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 15,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 16,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 17,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 18,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 19,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 20,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 21,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 22,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 23,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 24,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 25,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 26,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 27,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 28,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 29,
+      "count": 2,
+      "status": 200,
+      "attempt": 2,
+      "marked_uploaded": 2
+    }
+  ],
+  "failed_batches": []
+}

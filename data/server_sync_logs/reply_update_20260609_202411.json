@@ -1,0 +1,21 @@
+{
+  "request": {
+    "reply_id": "reply_1781007832204_nvt7v5",
+    "task_id": "reply_1781007832204_nvt7v5",
+    "sender_uid": "490543555",
+    "talker_id": "490543555",
+    "content": "9999",
+    "status": "sent",
+    "updated_at": 1781007850801,
+    "sent_at": 1781007850801,
+    "platform": "bilibili",
+    "platform_status": "sent",
+    "skipped": true
+  },
+  "result": {
+    "status": 200,
+    "body": {
+      "ok": true
+    }
+  }
+}

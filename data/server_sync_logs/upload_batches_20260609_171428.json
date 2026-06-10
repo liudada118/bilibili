@@ -1,0 +1,51 @@
+{
+  "total_new": 51,
+  "uploaded": 51,
+  "marked_uploaded": 51,
+  "batch_size": 10,
+  "batches": [
+    {
+      "batch": 1,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 2,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 3,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 4,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 5,
+      "count": 10,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 10
+    },
+    {
+      "batch": 6,
+      "count": 1,
+      "status": 200,
+      "attempt": 1,
+      "marked_uploaded": 1
+    }
+  ],
+  "failed_batches": []
+}

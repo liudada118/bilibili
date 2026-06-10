@@ -309,3 +309,8 @@ flowchart LR
 - `run_bilibili_sync_test_30s.bat` 用于测试，按 `30 +/- 5` 秒循环执行完整桥接。
 - `run_bilibili_sync.bat` 用于正式运行，按 `600 +/- 80` 秒循环执行完整桥接。
 - 移除回复专用 bat，避免测试和正式启动入口混淆。
+
+## 2026-06-10 data 目录入库
+
+- `.gitignore` 取消忽略 `data/`，允许将本地 SQLite、导出文件、同步日志和状态文件提交到私密 GitHub 仓库。
+- `config.json` 继续忽略，避免上传 B 站 Cookie、API Key 和本机登录态。
