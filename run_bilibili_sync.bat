@@ -4,7 +4,7 @@ setlocal
 cd /d "%~dp0"
 
 echo ==========================================
-echo Bilibili local sync bridge
+echo Bilibili local sync bridge - PRODUCTION
 echo ==========================================
 echo.
 echo Working directory: %CD%
@@ -16,6 +16,7 @@ echo   3. Pull pending reply tasks from server
 echo   4. Send replies through local Bilibili account
 echo   5. Report sent or failed status back to server
 echo.
+echo Mode: upload + reply
 echo Poll interval: 600 +/- 80 seconds
 echo Press Ctrl+C to stop.
 echo.

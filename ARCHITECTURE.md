@@ -303,3 +303,9 @@ flowchart LR
 - 新增 `run_bilibili_sync.bat`，双击后按 `600 +/- 80` 秒循环执行完整桥接：采集上传、拉取回复、本地发送、回写状态。
 - 新增 `run_bilibili_reply_only.bat`，双击后按 `600 +/- 80` 秒循环执行回复桥接，不上传新消息。
 - bat 内容使用 ASCII 输出，避免 Windows CMD 在中文编码下解析异常。
+
+## 2026-06-10 Windows 启动脚本拆分
+
+- `run_bilibili_sync_test_30s.bat` 用于测试，按 `30 +/- 5` 秒循环执行完整桥接。
+- `run_bilibili_sync.bat` 用于正式运行，按 `600 +/- 80` 秒循环执行完整桥接。
+- 移除回复专用 bat，避免测试和正式启动入口混淆。
